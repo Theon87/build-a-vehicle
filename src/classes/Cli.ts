@@ -120,6 +120,26 @@ class Cli {
           parseInt(answers.topSpeed),
           []
         );
+        const truck = new Truck(
+        Cli.generateVin(),
+        answers.color,
+        answers.make,
+        answers.model,
+        parseInt(answers.year),
+        parseInt(answers.weight),
+        parseInt(answers.topSpeed),
+        []
+      );
+        const motorbike = new Motorbike(
+        Cli.generateVin(),
+        answers.color,
+        answers.make,
+        answers.model,
+        parseInt(answers.year),
+        parseInt(answers.weight),
+        parseInt(answers.topSpeed),
+        []
+      );
         // push the car to the vehicles array
         this.vehicles.push(car);
         // set the selectedVehicleVin to the vin of the car
