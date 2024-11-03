@@ -44,7 +44,11 @@ The following guide was used to produce this README.md document: [https://coding
 
 ## Features
 
-Use this link for a demonstration: [https://drive.google.com/file/d/1mIlWeP9VDpVpoPEzqK-5C0ja_wOIw1wu/view?usp=sharing].
+Use this link for a demonstration: [].
+
+![initial prompt](/src/assets/module%208%20challenge_first%20prompt.png)
+
+![select an existing vehicle prompt](/src/assets/module%208%20challenge_select%20existing%20vehicle.png)
 
 Here are some of your options after you create a new vehicle or select an existing vehicle
 - Print details
@@ -53,6 +57,7 @@ Here are some of your options after you create a new vehicle or select an existi
 - Stop vehicle
 - Tow 
 - Wheelie 
+![options after selecting a vehicle](/src/assets/module%208%20challenge_options%20after%20selecting%20a%20vehicle.png)
 
 ## How to Contribute
 
