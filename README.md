@@ -57,6 +57,7 @@ Here are some of your options after you create a new vehicle or select an existi
 - Stop vehicle
 - Tow 
 - Wheelie 
+
 ![options after selecting a vehicle](/src/assets/module%208%20challenge_options%20after%20selecting%20a%20vehicle.png)
 
 ## How to Contribute
